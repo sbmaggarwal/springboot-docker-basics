@@ -1,13 +1,13 @@
-package com.shubham.springboot_docker_basics;
+package com.shubham.dockerise;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootDockerBasicsApplication {
+public class App {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootDockerBasicsApplication.class, args);
+		SpringApplication.run(App.class, args);
 	}
 
 }

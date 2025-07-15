@@ -1,10 +1,10 @@
-package com.shubham.springboot_docker_basics;
+package com.shubham.dockerise;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbootDockerBasicsApplicationTests {
+class AppTests {
 
 	@Test
 	void contextLoads() {
